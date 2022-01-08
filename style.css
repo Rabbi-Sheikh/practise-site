@@ -1,0 +1,21 @@
+
+
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.div2{height: 200px;
+    width: 200px;
+    background-color: blue;}
+    .div3{height: 200px;
+        width: 200px;
+        background-color: green;}
+
+
+
+
+
+
+.parent{display: flex;
+}
