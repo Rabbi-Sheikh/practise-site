@@ -1,21 +1,36 @@
-
-
-.div1{
-    height: 200px;
-    width: 200px;
-    background-color: red;
+body{
+    padding: o;
+    margin: 0%;
 }
-.div2{height: 200px;
-    width: 200px;
-    background-color: blue;}
-    .div3{height: 200px;
-        width: 200px;
-        background-color: green;}
+.title{
+    color: green;
+    text-align: center;
+}
+.parent{
+    display: flex;
+    width: 70%;
+   margin: 0 auto;
 
+}
 
+   
 
+.photo{
+    width: 300px;
+    margin-left: 10px;
+}
+.left-side{
+    margin-right: 10px;
+}
+.details-button{
+    padding: 10px 40px ;
+    background-image: linear-gradient(45deg, green,red,green);
+border: none;
+border-radius: 15px;
+font-size: 20px;
 
-
-
-.parent{display: flex;
+}
+.details-button:hover {
+    background-color: green;
+    color: white;
 }
